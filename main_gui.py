@@ -279,3 +279,6 @@ if __name__ == '__main__':
     slot_machine = SlotMachineGUI()
     slot_machine.show()
     sys.exit(app.exec_())
+
+
+# Mojeeb
